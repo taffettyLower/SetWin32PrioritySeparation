@@ -1,2 +1,1 @@
-# SetWin32PrioritySeparation
-SetWin32PrioritySeparation
+Win32 Priority Separation assigns priority values to all running services and allocates maximum memory for tasks marked as high priority. Background tasks that do not require excessive memory to execute are marked with Low priority. test all values for best performance and input lag
